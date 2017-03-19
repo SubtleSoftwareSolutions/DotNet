@@ -1,0 +1,12 @@
+E:\siSzarp\Lista1\Lista1\bin\Debug\Lista1.exe.config
+E:\siSzarp\Lista1\Lista1\bin\Debug\Lista1.exe
+E:\siSzarp\Lista1\Lista1\bin\Debug\Lista1.pdb
+E:\siSzarp\Lista1\Lista1\obj\Debug\Lista1.csprojResolveAssemblyReference.cache
+E:\siSzarp\Lista1\Lista1\obj\Debug\Lista1.Form1.resources
+E:\siSzarp\Lista1\Lista1\obj\Debug\Lista1.Properties.Resources.resources
+E:\siSzarp\Lista1\Lista1\obj\Debug\Lista1.csproj.GenerateResource.Cache
+E:\siSzarp\Lista1\Lista1\obj\Debug\Lista1.exe
+E:\siSzarp\Lista1\Lista1\obj\Debug\Lista1.pdb
+C:\Users\Administrator\Documents\New folder\Lista1\Lista1\bin\Debug\Lista1.exe.config
+C:\Users\Administrator\Documents\New folder\Lista1\Lista1\obj\Debug\Lista1.exe
+C:\Users\Administrator\Documents\New folder\Lista1\Lista1\obj\Debug\Lista1.pdb
